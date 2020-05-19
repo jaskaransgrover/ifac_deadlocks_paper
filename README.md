@@ -3,4 +3,4 @@
 
 Carnegie Mellon University
 
-This repository contains MATLAB files to reproduce results from our paper *Why Does Symmetry Cause Deadlocks?* available here at arxiv. 
+This repository contains MATLAB files to reproduce results from our paper *Why Does Symmetry Cause Deadlocks?* available here at arxiv. The repository contains two folders, one for analysis and simulation results for two robot deadlock, and another for analysis and simulation for three robot deadlock. Analysis results refer to proofs of the lemmas and theorems in the paper.
